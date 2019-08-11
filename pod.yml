@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
   - name: hello-ctr
-    image: ingjavierr/gateway-course:1.0
+    image: gabo10096/apimanager:latest
     ports:
     - containerPort: 8000
